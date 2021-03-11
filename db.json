@@ -1,0 +1,23 @@
+{
+  "logs": [
+    {
+    "id": 1,
+    "message": "Toggled widget workstation 001",
+    "attention": false,
+    "date": "03-28-2021",
+    "tech": "Test Tester"
+    }
+  ],
+  "techs": [
+  {
+    "id": "1",
+    "firstName": "John",
+    "lastName": "Wayne"
+  },
+  {
+    "id": "1",
+    "firstName": "Bruce",
+    "lastName": "Wayne"
+  }
+  ]
+}
